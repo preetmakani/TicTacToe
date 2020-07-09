@@ -1,0 +1,13 @@
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Debug\TicTacTOe.exe.config
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Debug\TicTacTOe.exe.manifest
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Debug\TicTacTOe.application
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Debug\TicTacTOe.exe
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Debug\TicTacTOe.pdb
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.Properties.Resources.resources
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.csproj.GenerateResource.Cache
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.TrustInfo.xml
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.exe.manifest
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.application
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.exe
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.pdb
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Debug\TicTacTOe.Form1.resources

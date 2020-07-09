@@ -1,0 +1,14 @@
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.exe.config
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.exe.manifest
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.application
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.exe
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.pdb
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.Form1.resources
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.Properties.Resources.resources
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.csproj.GenerateResource.Cache
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.TrustInfo.xml
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.exe.manifest
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.application
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.exe
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.pdb
+G:\MyPortfolio\ICS4U\Summative\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.csprojResolveAssemblyReference.cache
